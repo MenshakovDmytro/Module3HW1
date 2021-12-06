@@ -44,7 +44,7 @@ namespace Module3HW1
             coll.Add("I");
             coll.Add("Z");
 
-            coll.Remove("1");
+            coll.Remove("A");
             coll.RemoveAt(3);
             coll.AddRange(new string[] { "Q", "M", "P" });
             coll.Sort(comparer);
